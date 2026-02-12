@@ -1,0 +1,27 @@
+[
+    { 
+      "rel_url" : "avugaddisowjanya2002/Data_Git/refs/heads/main/Sales.csv",
+      "Folder_all" : "Package_CSV",
+      "Files_name" : "Sales_sample.csv"
+    },
+  { 
+      "rel_url" : "avugaddisowjanya2002/Data_Git/refs/heads/main/Students_marks.csv",
+      "Folder_all" : "Package_CSV",
+      "Files_name" : "Student_marks_sample.csv"
+    },
+  { 
+      "rel_url" : "avugaddisowjanya2002/Data_Git/refs/heads/main/department.csv",
+      "Folder_all" : "Package_CSV",
+      "Files_name" : "Department_sample.csv"
+    },
+  { 
+      "rel_url" : "avugaddisowjanya2002/Data_Git/refs/heads/main/employee.csv",
+      "Folder_all" : "Package_CSV",
+      "Files_name" : "Employee_sample.csv"
+    },
+   { 
+      "rel_url" : "avugaddisowjanya2002/Data_Git/refs/heads/main/ride_data.csv",
+      "Folder_all" : "Package_CSV",
+      "Files_name" : "Ride_sample.csv"
+    }
+]
