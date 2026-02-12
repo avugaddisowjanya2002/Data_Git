@@ -1,0 +1,9 @@
+order_id,customer_name,product,category,quantity,price,order_date,region
+1001,Ravi Kumar,Laptop,Electronics,2,75000,2025-01-15,South
+1002,Anita Rao,Mobile,Electronics,1,25000,2025-01-18,West
+1003,Suresh Babu,Chair,Furniture,4,3000,2025-01-20,East
+1004,Pooja Mehta,Desk,Furniture,2,7000,2025-01-25,North
+1005,Karthik R,Tablet,Electronics,3,15000,2025-02-01,South
+1006,Divya Nair,Sofa,Furniture,1,25000,2025-02-05,West
+1007,Manoj T,Headphones,Electronics,5,2000,2025-02-07,East
+1008,Sneha Joshi,Monitor,Electronics,2,12000,2025-02-10,North

@@ -1,0 +1,7 @@
+ride_id,rideable_type,start_station,end_station,start_time,end_time,member_type
+R001,Electric Bike,Station A,Station D,2025-02-01 08:00,2025-02-01 08:25,Member
+R002,Classic Bike,Station B,Station C,2025-02-01 09:10,2025-02-01 09:35,Casual
+R003,Electric Bike,Station A,Station B,2025-02-02 07:45,2025-02-02 08:05,Member
+R004,Classic Bike,Station D,Station A,2025-02-02 18:00,2025-02-02 18:40,Casual
+R005,Electric Bike,Station C,Station D,2025-02-03 12:20,2025-02-03 12:50,Member
+R006,Classic Bike,Station B,Station A,2025-02-03 17:15,2025-02-03 17:45,Casual
